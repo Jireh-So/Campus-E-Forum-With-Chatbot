@@ -32,52 +32,87 @@
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
     {
-      "tag": "items",
+      "tag": "java",
       "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
+        "How to code Java?",
+        "Can you give me tips on how to Java code?",
+        "What is the advantage of Java language?",
+        "What are usual libraries of Java?"
       ],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
+        "As an AI language model, I cannot directly answer your question. Perhaps you can look at Java related questions in <link>",
+        "I am an AI language model, hence I am unable to directly respond to your query. Perhaps you could look at the questions about Java at this link <link>",
+        "I am an artificial intelligence language model, so I am unable to directly answer your question. Maybe you may look at the Java questions at this page: <link>"
       ]
     },
     {
-      "tag": "payments",
+      "tag": "C++",
       "patterns": [
-        "Do you take credit cards?",
-        "Do you accept Mastercard?",
-        "Can I pay with Paypal?",
-        "Are you cash only?"
+        "How to do mathematical equations in C++?",
+        "Can you give me an example code in C++?",
+        "How to fix this error from C++?",
+        "Can you give me tips on how to C++ code?"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
+        "As an AI language model, I cannot directly answer your question. Perhaps you can look at C++ related questions in <link>",
+        "I am an AI language model, hence I am unable to directly respond to your query. Perhaps you could look at the questions about C++ at this link <link>",
+        "I am an artificial intelligence language model, so I am unable to directly answer your question. Maybe you may look at the C++ questions at this page: <link>"
       ]
     },
     {
-      "tag": "delivery",
+      "tag": "Python",
       "patterns": [
-        "How long does delivery take?",
-        "How long does shipping take?",
-        "When do I get my delivery?"
+        "How to install pandas library in Python?",
+        "What are local variables and global variables in Python?",
+        "How to fix my error in Python?",
+        "Can you give me tips on how to Python code?"
       ],
       "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
+        "As an AI language model, I cannot directly answer your question. Perhaps you can look at Python related questions in <link>",
+        "I am an AI language model, hence I am unable to directly respond to your query. Perhaps you could look at the questions about Python at this link <link>",
+        "I am an artificial intelligence language model, so I am unable to directly answer your question. Maybe you may look at the Python questions at this page: <link>"
       ]
     },
     {
-      "tag": "delivery",
+      "tag": "PHP",
       "patterns": [
-        "How long does delivery take?",
-        "How long does shipping take?",
-        "When do I get my delivery?"
+        "How to execute a PHP script from the command line?",
+        "What are the variable-naming rules you should follow in PHP?",
+        "How are two objects compared in PHP?",
+        "Can you give me tips on how to PHP code?"
       ],
       "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
+        "As an AI language model, I cannot directly answer your question. Perhaps you can look at PHP related questions in <link>",
+        "I am an AI language model, hence I am unable to directly respond to your query. Perhaps you could look at the questions about PHP at this link <link>",
+        "I am an artificial intelligence language model, so I am unable to directly answer your question. Maybe you may look at the PHP questions at this page: <link>"
+      ]
+    },
+    {
+      "tag": "HTML",
+      "patterns": [
+        "Give me an example of a Style Sheet in HTML?",
+        "What are the most used tags in HTML?",
+        "How to put a picture on the background in HTML?",
+        "Can you give me tips on how to do HTML?"
+      ],
+      "responses": [
+        "As an AI language model, I cannot directly answer your question. Perhaps you can look at HTML related questions in <link>",
+        "I am an AI language model, hence I am unable to directly respond to your query. Perhaps you could look at the questions about HTML at this link <link>",
+        "I am an artificial intelligence language model, so I am unable to directly answer your question. Maybe you may look at the PHP questions at this page: <link>"
+      ]
+    },
+    {
+      "tag": "CSS",
+      "patterns": [
+        "How to improve visualization of my website using CSS?",
+        "How to include CSS in the webpage?",
+        "How to center align a div inside another div in CSS?",
+        "Can you give me a basic CSS code?"
+      ],
+      "responses": [
+        "As an AI language model, I cannot directly answer your question. Perhaps you can look at CSS related questions in <link>",
+        "I am an AI language model, hence I am unable to directly respond to your query. Perhaps you could look at the questions about CSS at this link <link>",
+        "I am an artificial intelligence language model, so I am unable to directly answer your question. Maybe you may look at the CSS questions at this page: <link>"
       ]
     },
     {
